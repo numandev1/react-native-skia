@@ -39,7 +39,7 @@ local.properties
 .cxx
 
 # Externals
-libs
+# libs
 package/cpp/skia/include/
 package/cpp/skia/modules/
 
@@ -50,4 +50,4 @@ buck-out/
 
 # Build
 dist
-package/lib
+# package/lib
